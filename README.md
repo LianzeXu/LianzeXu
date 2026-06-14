@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LianzeXu
 - 👀 I’m interested in Embedded Software Development / Automotive Software / Automotive Architecture
-- 🌱 I’m currently learning AUTOSAR AP
+- 🌱 I’m currently learning AUTOSAR CP & AP
 - 💞️ I’m looking to collaborate on automotive development
 - 📫 How to reach me E-Mail:lianze.xu@outlook.com
 
